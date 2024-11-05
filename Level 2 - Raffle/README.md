@@ -11,7 +11,7 @@ Hey there, ready to build a raffle on the blockchain? Let's dive in!
 
 ## Game Plan
 
-1. Set up your contract:
+1. Set up your contract in `src/SimpleRaffle.sol`:
    - Use the latest Solidity version
    - Grab some OpenZeppelin contracts to make life easier
 
